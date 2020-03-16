@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Suppression.unity
+    guid: d2a2f2e574ac0ee46a9d479b7f8ac92e
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 48e402352bd5bea439f55fcf074dea9a,
+      type: 2}
